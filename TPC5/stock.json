@@ -1,0 +1,11 @@
+{
+    "stock": [
+    {"cod": "A23", "nome": "água 0.5L", "quant": 8, "preco": 0.7},
+    {"cod": "A24", "nome": "coca cola", "quant": 1, "preco": 1.5},
+    {"cod": "B23", "nome": "kitkat", "quant": 10, "preco": 0.90},
+    {"cod": "B45", "nome": "refrigerante lata", "quant": 12, "preco": 1.2},
+    {"cod": "C67", "nome": "chocolate", "quant": 10, "preco": 1.5},
+    {"cod": "D89", "nome": "barras de cereais", "quant": 6, "preco": 0.9},
+    {"cod": "E12", "nome": "café", "quant": 15, "preco": 0.8}
+   ]
+}   
